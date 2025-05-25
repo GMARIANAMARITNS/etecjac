@@ -6,7 +6,7 @@ Bem-vindo ao repositório do projeto! Aqui você encontra os principais arquivos
 
 ## 📦 Arquivo ZIP das Atividades de 5S
 
-[Download do arquivo ZIP](files/projeto.zip](https://github.com/GMARIANAMARITNS/etecjac/blob/main/Atividades%205S%20(1).zip)](https://github.com/GMARIANAMARITNS/etecjac/blob/main/Atividades%205S%20(1).zip)
+[Download do arquivo ZIP](https://github.com/GMARIANAMARITNS/etecjac/blob/main/Atividades%205S%20(1).zip)
 
 ---
 
