@@ -18,7 +18,7 @@ Bem-vindo ao repositório do projeto! Aqui você encontra os principais arquivos
 
 ## 📄 Cartilha 5S em PDF
 
-[Visualizar o PDF](![image](https://github.com/GMARIANAMARITNS/etecjac/blob/main/Cartilha%20Educativa%205S%20(1).pdf)
+[Visualizar o PDF](https://github.com/GMARIANAMARITNS/etecjac/blob/main/Cartilha%20Educativa%205S%20(1).pdf)
 
 
 ---
